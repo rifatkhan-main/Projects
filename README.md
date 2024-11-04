@@ -1,5 +1,4 @@
-# Projects
-Madden NFL 24 Player Ratings Analysis
+# Madden NFL 24 Player Ratings Analysis
 
 This project provides a detailed analysis of player ratings in Madden NFL 24 using data science techniques. The analysis covers data preprocessing, exploration, and insights visualization.
 
