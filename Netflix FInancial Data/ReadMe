@@ -1,0 +1,30 @@
+📈 Netflix Financial Performance Dashboard (Tableau + SQL + Python)
+
+This project analyzes over a decade of Netflix's financial performance, delivering executive-ready insights through an interactive Tableau dashboard. The analysis blends SQL-based querying, Python-driven trend detection, and compelling data storytelling.
+
+🛠️ Tools & Technologies
+Tableau – Dashboard development & visualization
+
+SQL – Data extraction & transformation
+
+Python (Pandas, Matplotlib) – Data analysis, trend detection
+
+Excel – Raw data consolidation & structuring
+
+📊 Project Highlights
+🔍 Long-Term Financial Analysis
+Extracted and analyzed 10+ years of Netflix's public financial data using SQL and Python to uncover long-term trends, cyclical patterns, and key shifts in business focus.
+
+📊 Executive Dashboard in Tableau
+Built an interactive Tableau dashboard to track KPIs including:
+
+Revenue Growth
+
+Subscriber Churn
+
+Content Investment Over Time
+Emphasized visual storytelling for clarity and strategic communication.
+
+✅ Data Integrity & Governance
+Ensured financial data accuracy through validation checks and followed data privacy best practices with public reporting datasets.
+
