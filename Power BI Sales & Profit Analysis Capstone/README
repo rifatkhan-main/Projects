@@ -1,6 +1,6 @@
-Power BI Revenue & Profitability Dashboard
+Power BI Revenue & Profitability Report
 
-This Power BI project presents a dynamic and visually rich dashboard that analyzes revenue trends, growth rates, and category-level profitability.
+This Power BI project presents a dynamic and visually rich Report that analyzes revenue trends, growth rates, and category-level profitability.
 
 🛠️ Tools & Technologies
 Power BI
@@ -16,7 +16,7 @@ Excel (Raw Data Source)
 📈 Key Features
 End-to-End BI Reporting Solution: Built from scratch using raw Excel datasets, applying Power Query for cleaning and transformation, and modeling data into a well-structured star schema.
 
-Interactive Dashboard: Showcases revenue and growth trends with slicers, category filters, and KPI cards for enhanced decision-making.
+Interactive Report: Showcases revenue and growth trends with slicers, category filters, and KPI cards for enhanced decision-making.
 
 Advanced Data Modeling: Utilized DAX for complex measures including YoY growth, category profitability, and running totals.
 
@@ -29,4 +29,4 @@ Tailwind Traders Report.pbix – The main Power BI file
 
 Tailwind Traders Report.pdf – PowerBI Report 
 
-Tailwind-Traders-Sales.xlsx
+Tailwind-Traders-Sales.xlsx - Raw Data
